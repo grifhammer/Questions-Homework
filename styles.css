@@ -1,0 +1,28 @@
+#question-wrapper{
+	position: relative;
+	width: 600px;
+	height: 430px;
+	text-align: center;
+	background-color: aquamarine;
+	margin: auto;
+	border-radius: 15px;
+}
+
+h1{
+	padding: 20% 10% 0;
+}
+
+#ask{
+	text-align: center;
+	width: 20%;
+	margin: 20px auto;
+}
+
+#question-button{
+	padding: 30px;
+	background-color: salmon;
+}
+
+#student{
+	color: hotpink;
+}
